@@ -1,2 +1,2 @@
-# octanet_october
-This is a furniture store landing page where you can find most unique furnitures. This landing page is made by using html, css and js.
+# NovusHaus_16-09-23
+Learn how to create a stunning and responsive E-Commerce landing page from scratch using HTML, CSS, and JavaScript!
